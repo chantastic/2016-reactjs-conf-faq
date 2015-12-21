@@ -1,15 +1,19 @@
 # 2016-reactjs-conf-faq
 Things that might have been a little clearer about getting a ticket...
 
-# Questions anwsered by [@reactjs](https://twitter.com/reactjs)
+### What's the shuffle algorithm?
+
+https://gist.github.com/brentvatne/78302027821ae8a9d522
 
 ### Does my github email address need to be public?
 
 *No. But it might to verify you.*
 
-References: 
-* https://twitter.com/whoisaldeka/status/678777526647447552
+https://twitter.com/whoisaldeka/status/678777526647447552
 
+### Will I get a "you didn't make it" email?
+
+*
 
 # Contributing
 
