@@ -23,6 +23,12 @@ https://twitter.com/whoisaldeka/status/678777526647447552
 * Round 2: *Yes*
 * Round 3: *TBD*
 
+### Can I enter the next wave if I've been regected?
+
+*Yes. Please do*
+
+https://twitter.com/bartekci/status/678757526423404544
+
 ### I got a "YAY" email. How long do I have to claim my ticket?
 
 *24 hours*
