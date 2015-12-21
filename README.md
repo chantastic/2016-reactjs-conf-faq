@@ -9,6 +9,12 @@ https://gist.github.com/brentvatne/78302027821ae8a9d522
 
 *No. But it might to verify you.*
 
+### How long is each window?
+
+*15 minutes*
+
+https://twitter.com/balloob/status/678732001914912768
+
 https://twitter.com/whoisaldeka/status/678777526647447552
 
 ### Will I get a "you didn't make it" email?
