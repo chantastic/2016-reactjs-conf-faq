@@ -13,7 +13,9 @@ https://twitter.com/whoisaldeka/status/678777526647447552
 
 ### Will I get a "you didn't make it" email?
 
-*
+* Round 1: *No*
+* Round 2: *Yes*
+* Round 3: *TBD*
 
 # Contributing
 
