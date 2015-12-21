@@ -1,3 +1,7 @@
+# ALL WAVES HAVE BEEN CONCLUDED. I HOPE YOU WIN
+
+
+
 # 2016-reactjs-conf-faq
 Things that might have been a little clearer about getting a ticket...
 
