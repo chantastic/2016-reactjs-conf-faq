@@ -1,6 +1,17 @@
 # 2016-reactjs-conf-faq
 Things that might have been a little clearer about getting a ticket...
 
+### Where do I enter the lottery?
+
+http://conf.reactjs.com/tickets
+
+The last wave will will be at 10am PST (12/21/15)
+
+### What do I need to join the lottery?
+
+* *A github account*
+* *The email address connected to that account*
+
 ### What's the shuffle algorithm?
 
 https://gist.github.com/brentvatne/78302027821ae8a9d522
