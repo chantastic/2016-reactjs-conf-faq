@@ -1,6 +1,8 @@
-# ALL WAVES HAVE BEEN CONCLUDED. I HOPE YOU WIN
+#### *ARCHIVED*
 
+*This repo is no longer relevant. I've kept it around for posterity.*
 
+---
 
 # 2016-reactjs-conf-faq
 Things that might have been a little clearer about getting a ticket...
